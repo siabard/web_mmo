@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.container-fluid {
+  background-image: url("../media/bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.column {
+  border: 1px solid;
+  border-color: white;
+}
+
+.temp {
+  height: 700px;
+}
+
+.banner {
+  text-align: center;
+}
